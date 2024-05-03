@@ -7,10 +7,10 @@ The two players take turns to join two adjacent dots with a horizontal or vertic
 When all the boxes have been completed the winner is the player who has initialled the most boxes.
 
 By :
-     - Safya Nashaat Ali
+     - Safya Nashaat Ali          - Sara Atef Othman
 
      
-     - Sara Atef Othman
+
 
 
 ![Screenshot_3](https://github.com/saratef/Dots-and-boxes-game-with-AI-/assets/167128704/4a97be80-1c29-4cd2-9231-8ff3730f8054)

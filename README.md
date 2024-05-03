@@ -14,7 +14,7 @@ When all the boxes have been completed the winner is the player who has initiall
      
      - 𝑺𝒂𝒓𝒂 𝑨𝒕𝒆𝒇 𝑶𝒕𝒉𝒎𝒂𝒏 ✿ 
 
-     
+          ฅʕ•̫͡•ʔฅ
 
 
 

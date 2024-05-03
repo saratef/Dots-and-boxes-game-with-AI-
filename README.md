@@ -6,6 +6,8 @@ The two players take turns to join two adjacent dots with a horizontal or vertic
 
 When all the boxes have been completed the winner is the player who has initialled the most boxes.
 
+
+
 𝘉𝘺 :
 
      - 𝑺𝒂𝒇𝒚𝒂 𝑵𝒂𝒔𝒉𝒂𝒂𝒕 𝑨𝒍𝒊 ✿     
